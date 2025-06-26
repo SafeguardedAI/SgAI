@@ -1,0 +1,2 @@
+# SgAI
+SgAI application monorepo
