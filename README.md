@@ -4,12 +4,23 @@ The _Safeguarded AI_ platform is being developed to provide probabilistic guaran
 
 ## Tooling
 
-- **agentprofiles** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/clones-cli) / [npm](https://www.npmjs.com/package/clones-cli))
-- **clones** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/agentprofiles-cli) / [npm](https://www.npmjs.com/package/agentprofiles-cli))
+- **agentprofiles-cli** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/clones-cli) / [npm](https://www.npmjs.com/package/clones-cli))
+- **clones-cli** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/agentprofiles-cli) / [npm](https://www.npmjs.com/package/agentprofiles-cli))
+- **petrinaut** ([GitHub](https://github.com/hashintel/hash/tree/main/libs/%40hashintel/petrinaut) / [npm](https://www.npmjs.com/package/@hashintel/petrinaut) / [Demo](https://demo.petrinaut.org/))
 
 ## Research
 
+### Papers
+
 _Coming soon_
+
+### Designs
+
+- Agentic Assistance Flows
+- Spec Elicitation Flows
+- Unstructured Ingestion
+- Petri Net Composition
+- Petri Net Diffing
 
 ## External Context
 
