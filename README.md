@@ -1,20 +1,45 @@
+[agent profiles cli]: https://github.com/hashintel/labs/tree/main/pocs/agentprofiles-cli
+[clones cli]: https://github.com/hashintel/labs/tree/main/pocs/clones-cli
+[demo.petrinaut.org]: https://demo.petrinaut.org/?utm_medium=organic&utm_source=github_readme_sgai-repo_root
+[future of programming lab]: https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1
+[hash]: https://hash.dev/?utm_medium=organic&utm_source=github_readme_sgai-repo_root
+[ink & switch]: https://inkandswitch.com/?utm_medium=organic&utm_source=github_readme_sgai-repo_root
+[petrinaut]: https://petrinaut.org/?utm_medium=organic&utm_source=github_readme_sgai-repo_root
+[safeguarded ai commons]: https://github.com/SafeguardedAI/commons
+
 # Safeguarded AI
 
-The _Safeguarded AI_ platform is being developed to provide probabilistic guarantees of safety around the deployment of frontier AI models in error-sensitive, high-value domains. It is being developed as part of the Advanced Research + Invention Agency's [Safeguarded AI](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/) programme.
+This repository collates the work of various Advanced Research + Invention Agency [Safeguarded AI](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/) Creators.
 
 ## Tooling
 
-- **agentprofiles-cli** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/clones-cli) / [npm](https://www.npmjs.com/package/clones-cli))
-- **clones-cli** ([GitHub](https://github.com/hashintel/labs/tree/main/pocs/agentprofiles-cli) / [npm](https://www.npmjs.com/package/agentprofiles-cli))
-- **petrinaut** ([GitHub](https://github.com/hashintel/hash/tree/main/libs/%40hashintel/petrinaut) / [npm](https://www.npmjs.com/package/@hashintel/petrinaut) / [Demo](https://demo.petrinaut.org/))
+### Agent Profiles CLI
+
+The [Agent Profiles CLI] (`agentprofiles-cli`) enables software developers to easily manage per-project configuration profiles of LLM agent tools via `direnv`, simplifying the process of working with AI coding assistants across multiple contexts. Published to [GitHub](https://github.com/hashintel/labs/tree/main/pocs/agentprofiles-cli) and [npm](https://www.npmjs.com/package/agentprofiles-cli).
+
+### Clones CLI
+
+The [Clones CLI] (`clones-cli`) makes it trivial to clone remote Git repositories locally for read-only reference, and keep them up-to-date, without the overhead of managing them manually. Useful for ensuring full context is available to agents when working with third-party libraries, or Git-hosted information repositories (like the [Safeguarded AI Commons]). Published to [GitHub](https://github.com/hashintel/labs/tree/main/pocs/clones-cli) and [npm](https://www.npmjs.com/package/clones-cli).
+
+### Petrinaut
+
+[Petrinaut] is a web-based environment for working with Petri Nets, including those with various extensions.
+
+Previewable at [demo.petrinaut.org]; published to [GitHub](https://github.com/hashintel/hash/tree/main/libs/%40hashintel/petrinaut) and [npm](https://www.npmjs.com/package/@hashintel/petrinaut).
 
 ## Research
 
-### Papers
+### Writing
 
-_Coming soon_
+> [!NOTE]
+> Original papers and other written outputs produced as part of the SgAI program will be added here in due course.
 
 ### Designs
+
+> [!NOTE]
+> Links to the below exploratory design projects will be added shortly.
+
+**In progress:**
 
 - Agentic Assistance Flows
 - Spec Elicitation Flows
@@ -22,6 +47,16 @@ _Coming soon_
 - Petri Net Composition
 - Petri Net Diffing
 
+**Planned:**
+
+- Petri Net Abstractions
+
 ## External Context
 
-- [SafeguardedAI/commons](https://github.com/SafeguardedAI/commons): contains third-party publications and research which can be cloned into queryable context using the `clones-cli` tool
+### Safeguarded AI Commons
+
+The [Safeguarded AI Commons] contains third-party publications and research which can be cloned into queryable context using the [Clones CLI] tool
+
+### Creator Teams
+
+The Safeguarded AI outputs above have been developed by Creator teams including [HASH], [Ink & Switch], the [Future of Programming Lab], and others (coming soon). A full list of the programme's creators can be found on the [ARIA website](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/).
