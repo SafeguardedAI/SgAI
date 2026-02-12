@@ -55,8 +55,10 @@ Previewable at [demo.petrinaut.org]; published to [GitHub](https://github.com/ha
 
 ### Safeguarded AI Commons
 
-The [Safeguarded AI Commons] contains third-party publications and research which can be cloned into queryable context using the [Clones CLI] tool
+The [Safeguarded AI Commons] contains third-party publications and research relevant to the Safeguarded AI programme. This can be cloned into easily-queryable local context via the [Clones CLI] tool.
 
-### Creator Teams
+### Safeguarded AI Creators
 
-The Safeguarded AI outputs above have been developed by Creator teams including [HASH], [Ink & Switch], the [Future of Programming Lab], and others (coming soon). A full list of the programme's creators can be found on the [ARIA website](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/).
+The Safeguarded AI outputs above have been developed by [HASH], [Ink & Switch], the [Future of Programming Lab], and others (coming soon).
+
+A full list of the programme's creator teams can be found on the [ARIA website](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/).
