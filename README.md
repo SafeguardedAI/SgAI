@@ -30,9 +30,9 @@ Previewable at [demo.petrinaut.org]; published to [GitHub](https://github.com/ha
 ## Research
 
 ### Writing
-
-> [!NOTE]
-> Original papers and other written outputs produced as part of the SgAI program will be added here in due course.
+- 10 Jan 2026 - [Reviewing state of the art in Agentic AI](https://hash.dev/blog/sota-in-agentic-ai)
+- 17 Feb 2026 - [The case for Petri nets for Agentic AI](https://hash.ai/blog/petri-nets-for-agentic-ai)
+- 23 Mar 2026 - [CatColab v0.5: Sandpiper](https://topos.institute/blog/2026-03-23-catcolab-0-5-sandpiper/)
 
 ### Designs
 
